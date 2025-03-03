@@ -25,11 +25,11 @@ SHES Group submission for the TAMIDS Cyberwise 2025 competition
 
 - [ ] **Generate a LaTeX based document for members to compile final report**
     - Due Date: 
-    - Assigned To: Sam
+    - Assigned To: Sam B
 
 - [ ] **Invite each of the team members using tamu email**
     - Due Date: 
-    - Assigned To: Sam
+    - Assigned To: Sam B
 
 - [ ] **Create GitHub repository for the project**
     - Due Date: 
