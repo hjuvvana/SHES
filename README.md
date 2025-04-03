@@ -1,44 +1,8 @@
 # SHES
 SHES Group submission for the TAMIDS Cyberwise 2025 competition
 
-## Task List
+The increasing integration of Industrial Internet of Things (IIoT) devices in critical infrastructure has heightened the vulnerability of industrial systems to cyberattacks. This report presents a comprehensive analysis of the [CIC APT IIoT Dataset 2024](https://www.unb.ca/cic/datasets/iiot-dataset-2024.html), a benchmark dataset that simulates a range of cybersecurity threats in IIoT environments. 
 
-- [ ] **Analyze and generate visualization for the 2023 IoT dataset from the Canvas**
-    - Due Date: 
-    - Assigned To: 
+Our research focuses on enhancing the security of IIoT systems through a multi-faceted approach, incorporating advanced machine learning and statistical methods to address key challenges in network traffic analysis and device authentication. By leveraging provenance logs and network traffic data, we propose methodologies to detect anomalies indicative of cyberattacks, safeguard communication protocols, and improve device authentication mechanisms.
 
-- [ ] **Analyze and generate visualization for the 2024 IIoT dataset from the Canvas**
-    - Due Date: 
-    - Assigned To: Sam B
-
-- [ ] **Determine if we should focus on IIoT or IoT, which likely features more readily available data online**
-    - Due Date: 
-    - Assigned To: 
-    - Can split to: Sam M
-
-- [ ] **Explore the use of other datasets**
-    - French: [Dataset of Legitimate IoT Data](https://www.data.gouv.fr/en/datasets/dataset-of-legitimate-iot-data/)
-    - IEEE Automation: [Dataset Bundle for Building Automation and Control Systems Security Analysis](https://ieee-dataport.org/documents/dataset-bundle-building-automation-and-control-systems-security-analysis#files)
-    - IEEE 2: [WUSTL IIoT 2021](https://ieee-dataport.org/documents/wustl-iiot-2021)
-    - Due Date: 
-    - Assigned To: Harika
-
-- [X] **Generate a LaTeX based document for members to compile final report**
-    - Due Date: 
-    - Assigned To: Sam B
-
-- [X] **Invite each of the team members using tamu email**
-    - Due Date: 
-    - Assigned To: Sam B
-
-- [X] **Create GitHub repository for the project**
-    - Due Date: 
-    - Assigned To: Sam M
-
-- [ ] **Each team member should join**
-    - Due Date: 
-    - Assigned To: Everyone
-
-- [ ] **Explore relationships between the IoT datasets and potential other fields, such as quantum computing**
-    - Due Date: 
-    - Assigned To: Sam B (and anyone else who wants to)
+The results of our analysis demonstrate the efficacy of these approaches in identifying potential vulnerabilities and mitigating risks within IIoT networks, ultimately contributing to the resilience of industrial systems against evolving cybersecurity threats. This work highlights the importance of developing robust security frameworks tailored to the unique challenges of IIoT environments, underscoring the need for advanced detection and authentication techniques to protect against emerging cyber threats.
